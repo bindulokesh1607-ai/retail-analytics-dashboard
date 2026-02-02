@@ -58,7 +58,7 @@ This project demonstrates a complete end-to-end analytics workflow using Azure S
 Revenue = SUMX('fact Sales', 'fact Sales'[Quantity] * 'fact Sales'[UnitPrice])
 
 
-📈 Dashboard Features
+####📈 Dashboard Features
 Total Revenue KPI
 
 Revenue by Country
@@ -90,5 +90,6 @@ Published to Power BI Service
 Shared via workspace
 
 Screenshots:
-<img width="1388" height="801" alt="Screenshot 2026-02-02 at 5 38 51 PM" src="https://github.com/user-attachments/assets/401268e4-e90f-44ed-a5b1-7d15b5fdb0b0" />
+![Dashboard Overview](dashboard-overview.png)
+
 
