@@ -87,7 +87,7 @@ Revenue = SUMX('fact Sales', 'fact Sales'[Quantity] * 'fact Sales'[UnitPrice])
 ---
 
 ## 📸 Screenshots
-*(Add your dashboard images here)*
+![Dashboard Overview](dashboard-overview.png)
 
 ---
 
