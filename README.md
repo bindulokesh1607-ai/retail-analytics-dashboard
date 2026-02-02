@@ -56,40 +56,41 @@ This project demonstrates a complete end-to-end analytics workflow using Azure S
 
 ```DAX
 Revenue = SUMX('fact Sales', 'fact Sales'[Quantity] * 'fact Sales'[UnitPrice])
+```
 
+---
 
-####📈 Dashboard Features
-Total Revenue KPI
+## 📈 Dashboard Features
+- Total Revenue KPI  
+- Revenue by Country  
+- Top 10 Products  
+- Top 10 Customers  
+- Monthly Revenue Trend  
+- Revenue Distribution (Pie/Donut)  
+- Date Slicer  
 
-Revenue by Country
+---
 
-Top 10 Products
+## 🎨 Design
+- Professional theme  
+- Consistent color palette  
+- Currency formatting  
+- Clean layout and alignment  
 
-Top 10 Customers
+---
 
-Monthly Revenue Trend
+## 🚀 Publishing
+- Built in Power BI Desktop  
+- Published to Power BI Service  
+- Shared via workspace  
 
-Revenue Distribution (Pie/Donut)
+---
 
-Date Slicer
+## 📸 Screenshots
+*(Add your dashboard images here)*
 
-🎨 Design
-Professional theme
+---
 
-Consistent color palette
-
-Currency formatting
-
-Clean layout and alignment
-
-🚀 Publishing
-Built in Power BI Desktop
-
-Published to Power BI Service
-
-Shared via workspace
-
-Screenshots:
-![Dashboard Overview](dashboard-overview.png)
-
-
+## 📬 Contact
+**Bindu Lokesh**  
+Toronto, Canada  
